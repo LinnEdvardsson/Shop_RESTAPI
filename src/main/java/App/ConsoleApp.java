@@ -3,9 +3,9 @@ package App;
 import Customer.Customer;
 import Repository.Repository;
 import ShoeShop.LJShoeShop;
-import ShoeShop.Orders.Item;
-import ShoeShop.Products.Category;
-import ShoeShop.Products.Product;
+import Orders.Item;
+import Products.Category;
+import Products.Product;
 
 import java.io.IOException;
 import java.util.Scanner;

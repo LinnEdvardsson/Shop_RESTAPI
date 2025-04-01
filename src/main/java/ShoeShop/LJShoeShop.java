@@ -2,11 +2,11 @@ package ShoeShop;
 
 import Customer.Customer;
 import Repository.Repository;
-import ShoeShop.Orders.Item;
-import ShoeShop.Orders.Order;
-import ShoeShop.Products.Category;
-import ShoeShop.Products.OutOfStockItem;
-import ShoeShop.Products.Product;
+import Orders.Item;
+import Orders.Order;
+import Products.Category;
+import Products.OutOfStockItem;
+import Products.Product;
 
 import java.io.IOException;
 import java.util.List;

@@ -1,6 +1,6 @@
-package ShoeShop.Orders;
+package Orders;
 
-import ShoeShop.Products.Product;
+import Products.Product;
 
 public class Item {
 

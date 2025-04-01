@@ -1,4 +1,4 @@
-package ShoeShop.Products;
+package Products;
 
 import java.util.Date;
 

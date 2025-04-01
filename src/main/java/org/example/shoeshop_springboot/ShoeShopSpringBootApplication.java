@@ -3,7 +3,6 @@ package org.example.shoeshop_springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
 public class ShoeShopSpringBootApplication {
 
 	public static void main(String[] args) {
